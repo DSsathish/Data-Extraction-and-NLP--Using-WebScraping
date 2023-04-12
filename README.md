@@ -1,18 +1,18 @@
 # Data-Extraction-and-NLP--Using-WebScraping
 Data Extraction and NLP
 
-1-Objective
-:The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
+<b>1.Objective</b><br>
+The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
 
 
-2	Data Extraction
-Input.xlsx<br>
+<b>2.Data Extraction</b>
+<br>Input.xlsx<br>
 For each of the articles, given in the input.xlsx file, extract the article text and save the extracted article in a text file 
 
-3	Data Analysis
+<b>3.Data Analysis</b><br>
 For each of the extracted texts from the article, perform textual analysis and compute variables, given in the output structure excel file. You need to save the output in the exact order as given in the output structure file, “Output Data Structure.xlsx”
 
-4	Variables
+<b>4.Variables</b><br>
 Definition of each of the variables given in the “Text Analysis.docx” file.
 Look for these variables in the analysis document (Text Analysis.docx):
   1.	POSITIVE SCORE
@@ -30,8 +30,8 @@ Look for these variables in the analysis document (Text Analysis.docx):
   13.	AVG WORD LENGTH
   
   
-5	Output Data Structure
-Output Variables: 
+<b>5.Output Data Structure</b><br>
+Output Variables:<br> 
   1.	All input variables in “Input.xlsx”
   2.	POSITIVE SCORE
   3.	NEGATIVE SCORE
