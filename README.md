@@ -2,11 +2,11 @@
 Data Extraction and NLP
 
 1-Objective
-The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
+:The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
 
 
 2	Data Extraction
-Input.xlsx
+Input.xlsx<br>
 For each of the articles, given in the input.xlsx file, extract the article text and save the extracted article in a text file 
 
 3	Data Analysis
