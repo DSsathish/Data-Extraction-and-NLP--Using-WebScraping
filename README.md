@@ -48,4 +48,11 @@ Output Variables:<br>
   14.	AVG WORD LENGTH<br>
   Checkout output data structure spreadsheet for the format of your output, i.e. “Output Data Structure.xlsx”.
 
+<i><h4>How to Run the Program</h4></i>
 
+<ul>
+<li>First run the <strong>Data_Extraction_And_NLP_Analysis(Main).py</strong> File. </li>
+<li>Others are Automatically Run</li>
+<li>Must insatll the lib for progeam</li>
+<li>pip install requests, pip install openpyxl, pip install nltk, pip install bs4</li>
+</ul>
