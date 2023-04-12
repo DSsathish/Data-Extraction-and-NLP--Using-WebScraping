@@ -1,5 +1,5 @@
 # Data-Extraction-and-NLP--Using-WebScraping
-Data Extraction and NLP
+<h2>Data Extraction and NLP</h2>
 
 <b>1.Objective</b><br>
 The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
@@ -27,7 +27,7 @@ Look for these variables in the analysis document (Text Analysis.docx):
   10.	WORD COUNT
   11.	SYLLABLE PER WORD
   12.	PERSONAL PRONOUNS
-  13.	AVG WORD LENGTH
+  13.	AVG WORD LENGTH<br><br><br>
   
   
 <b>5.Output Data Structure</b><br>
@@ -45,7 +45,7 @@ Output Variables:<br>
   11.	WORD COUNT
   12.	SYLLABLE PER WORD
   13.	PERSONAL PRONOUNS
-  14.	AVG WORD LENGTH
+  14.	AVG WORD LENGTH<br>
   Checkout output data structure spreadsheet for the format of your output, i.e. “Output Data Structure.xlsx”.
 
 
